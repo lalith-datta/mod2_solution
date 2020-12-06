@@ -7,21 +7,21 @@
 			padding: 0px;
 			color: maroon;
 			background-color: green;
-            width: 475px;
+                        width: 33%px;
 		}
 		.mutton {
 			border: 1px solid black;
 			padding: 0px;
 			color: blue;
 			background-color: yellow;
-			width: 475px;
+			width: 33%px;
 		}
 		.fish {
 			border: 1px solid black;
 			padding: 0px;
 			color: black;
 			background-color: pink;
-			width: 475px;
+			width: 33%px;
 		}
 		div {
 			float: left;
